@@ -6,4 +6,4 @@
 
 [Тестовый набор](https://app.qase.io/project/G8?author=250&suite=266&tab=properties&previewMode=side)
 
-[Ссылка на файл test cases 2.pdf](https://github.com/KseniiaPetrova923/web/blob/main/test%20cases%202.pdf)
+[Ссылка на файл test cases 2.pdf]
