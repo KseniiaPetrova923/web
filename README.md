@@ -4,10 +4,12 @@ Before starting testing, I prepared a [test plan](https://docs.google.com/spread
 
 ## Requirements analysis and test documentation preparation:
 *[Check list for Cart Management и Order Management modules](https://docs.google.com/file/d/1nYNbIoCG4zT5S-1lTzev2XNLWvrVacWL/edit?usp=docslist_api&filetype=msexcel)
+
 *[Test cases](https://github.com/KseniiaPetrova923/web/blob/main/testcases2.pdf)
 
 ## Functional testing:
 *[Bug reports](https://github.com/KseniiaPetrova923/web/blob/06c9fc7755522f4ac977b64e52632fa992867656/Issues2.xls)
+
 *[Test run results](https://github.com/KseniiaPetrova923/web/blob/06c9fc7755522f4ac977b64e52632fa992867656/test%20run2.pdf)
 
 ## Using of Charles Proxy:
